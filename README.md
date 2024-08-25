@@ -6,11 +6,11 @@ Instructions:
 ●	Your tasks are to write Python functions that accomplish the following:
 
 1.	Read the dataset into a pandas Data Frame.
-
 *Extra marks if you handle exceptions gracefully and print meaningful error messages.*
-2.	Sum the missing values for each column.
 
-    *Ensure the function returns a pandas Series that lists the missing values for each column* 
+2.	Sum the missing values for each column.
+*Ensure the function returns a pandas Series that lists the missing values for each column* 
+
 3.	Check for duplicates in each column.
    *Ensure the function returns a dictionary with column names and boolean values indicating the presence of duplicates.*
 
